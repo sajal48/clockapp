@@ -1,3 +1,4 @@
+![SharedScreenshot](https://user-images.githubusercontent.com/49409759/118737525-da164680-b866-11eb-864c-09e968b9ea0e.jpg)
 # clockapp
 
 A new Flutter project.
